@@ -1,0 +1,40 @@
+{
+  "id": "sample-proof-01",
+  "title": "Variance expansion of centered variable",
+  "topic": "StatisticalInference",
+  "difficulty": "Intermediate",
+  "metadata": {
+    "references": [
+      "StatProof Handbook Ch. 3"
+    ],
+    "tags": [
+      "variance",
+      "expectation"
+    ],
+    "relatedConcepts": [
+      "linearity_of_expectation",
+      "second_moment"
+    ]
+  },
+  "assumptions": [
+    "E[X] exists",
+    "E[X^2] exists"
+  ],
+  "steps": [
+    {
+      "id": "step-1",
+      "expressionState": {
+        "before": "Var(X)",
+        "after": "E[(X-E[X])^2]"
+      },
+      "transformationRule": {
+        "id": "var-def",
+        "name": "Variance definition",
+        "description": "Apply definition of variance"
+      },
+      "explanation": "Variance equals expected squared deviation from the mean.",
+      "latex": "\\\\mathrm{Var}(X)=\\\\mathbb{E}[(X-\\\\mathbb{E}[X])^2]",
+      "substeps": []
+    }
+  ]
+}

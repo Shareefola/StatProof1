@@ -1,0 +1,20 @@
+plugins {
+    alias(libs.plugins.kotlin.jvm)
+    alias(libs.plugins.kotlin.serialization)
+}
+
+kotlin {
+    jvmToolchain(17)
+}
+
+dependencies {
+    implementation(project(":core"))
+    implementation(project(":domain"))
+    implementation(project(":proofengine"))
+    implementation(libs.kotlinx.serialization.json)
+    testImplementation(libs.junit.jupiter)
+}
+
+tasks.test {
+    useJUnitPlatform()
+}

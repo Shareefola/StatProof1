@@ -1,0 +1,5702 @@
+[
+  {
+    "id": "thm-001",
+    "title": "Canonical ProbabilityTheory theorem 1",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 1 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-2",
+      "concept-2"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "1"
+    ]
+  },
+  {
+    "id": "thm-002",
+    "title": "Canonical DistributionTheory theorem 2",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 2 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-3",
+      "concept-3"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "2"
+    ]
+  },
+  {
+    "id": "thm-003",
+    "title": "Canonical StatisticalInference theorem 3",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 3 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-4",
+      "concept-4"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "3"
+    ]
+  },
+  {
+    "id": "thm-004",
+    "title": "Canonical HypothesisTesting theorem 4",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 4 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-5",
+      "concept-5"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "4"
+    ]
+  },
+  {
+    "id": "thm-005",
+    "title": "Canonical RegressionModels theorem 5",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 5 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-6",
+      "concept-6"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "5"
+    ]
+  },
+  {
+    "id": "thm-006",
+    "title": "Canonical BayesianStatistics theorem 6",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 6 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-7",
+      "concept-7"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "6"
+    ]
+  },
+  {
+    "id": "thm-007",
+    "title": "Canonical SamplingTheory theorem 7",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 7 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-8",
+      "concept-8"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "7"
+    ]
+  },
+  {
+    "id": "thm-008",
+    "title": "Canonical StochasticProcesses theorem 8",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 8 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-9",
+      "concept-9"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "8"
+    ]
+  },
+  {
+    "id": "thm-009",
+    "title": "Canonical InformationTheory theorem 9",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 9 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-10",
+      "concept-10"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "9"
+    ]
+  },
+  {
+    "id": "thm-010",
+    "title": "Canonical Asymptotics theorem 10",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 10 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-11",
+      "concept-11"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "10"
+    ]
+  },
+  {
+    "id": "thm-011",
+    "title": "Canonical ProbabilityTheory theorem 11",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 11 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-12",
+      "concept-12"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "11"
+    ]
+  },
+  {
+    "id": "thm-012",
+    "title": "Canonical DistributionTheory theorem 12",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 12 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-13",
+      "concept-13"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "12"
+    ]
+  },
+  {
+    "id": "thm-013",
+    "title": "Canonical StatisticalInference theorem 13",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 13 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-14",
+      "concept-14"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "13"
+    ]
+  },
+  {
+    "id": "thm-014",
+    "title": "Canonical HypothesisTesting theorem 14",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 14 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-15",
+      "concept-15"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "14"
+    ]
+  },
+  {
+    "id": "thm-015",
+    "title": "Canonical RegressionModels theorem 15",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 15 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-16",
+      "concept-16"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "15"
+    ]
+  },
+  {
+    "id": "thm-016",
+    "title": "Canonical BayesianStatistics theorem 16",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 16 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-17",
+      "concept-17"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "16"
+    ]
+  },
+  {
+    "id": "thm-017",
+    "title": "Canonical SamplingTheory theorem 17",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 17 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-18",
+      "concept-18"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "17"
+    ]
+  },
+  {
+    "id": "thm-018",
+    "title": "Canonical StochasticProcesses theorem 18",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 18 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-19",
+      "concept-19"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "18"
+    ]
+  },
+  {
+    "id": "thm-019",
+    "title": "Canonical InformationTheory theorem 19",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 19 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-20",
+      "concept-20"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "19"
+    ]
+  },
+  {
+    "id": "thm-020",
+    "title": "Canonical Asymptotics theorem 20",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 20 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-1",
+      "concept-21"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "20"
+    ]
+  },
+  {
+    "id": "thm-021",
+    "title": "Canonical ProbabilityTheory theorem 21",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 21 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-2",
+      "concept-22"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "21"
+    ]
+  },
+  {
+    "id": "thm-022",
+    "title": "Canonical DistributionTheory theorem 22",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 22 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-3",
+      "concept-23"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "22"
+    ]
+  },
+  {
+    "id": "thm-023",
+    "title": "Canonical StatisticalInference theorem 23",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 23 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-4",
+      "concept-24"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "23"
+    ]
+  },
+  {
+    "id": "thm-024",
+    "title": "Canonical HypothesisTesting theorem 24",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 24 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-5",
+      "concept-25"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "24"
+    ]
+  },
+  {
+    "id": "thm-025",
+    "title": "Canonical RegressionModels theorem 25",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 25 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-6",
+      "concept-26"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "25"
+    ]
+  },
+  {
+    "id": "thm-026",
+    "title": "Canonical BayesianStatistics theorem 26",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 26 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-7",
+      "concept-27"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "26"
+    ]
+  },
+  {
+    "id": "thm-027",
+    "title": "Canonical SamplingTheory theorem 27",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 27 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-8",
+      "concept-28"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "27"
+    ]
+  },
+  {
+    "id": "thm-028",
+    "title": "Canonical StochasticProcesses theorem 28",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 28 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-9",
+      "concept-29"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "28"
+    ]
+  },
+  {
+    "id": "thm-029",
+    "title": "Canonical InformationTheory theorem 29",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 29 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-10",
+      "concept-30"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "29"
+    ]
+  },
+  {
+    "id": "thm-030",
+    "title": "Canonical Asymptotics theorem 30",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 30 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-11",
+      "concept-31"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "30"
+    ]
+  },
+  {
+    "id": "thm-031",
+    "title": "Canonical ProbabilityTheory theorem 31",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 31 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-12",
+      "concept-32"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "31"
+    ]
+  },
+  {
+    "id": "thm-032",
+    "title": "Canonical DistributionTheory theorem 32",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 32 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-13",
+      "concept-33"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "32"
+    ]
+  },
+  {
+    "id": "thm-033",
+    "title": "Canonical StatisticalInference theorem 33",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 33 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-14",
+      "concept-1"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "33"
+    ]
+  },
+  {
+    "id": "thm-034",
+    "title": "Canonical HypothesisTesting theorem 34",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 34 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-15",
+      "concept-2"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "34"
+    ]
+  },
+  {
+    "id": "thm-035",
+    "title": "Canonical RegressionModels theorem 35",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 35 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-16",
+      "concept-3"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "35"
+    ]
+  },
+  {
+    "id": "thm-036",
+    "title": "Canonical BayesianStatistics theorem 36",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 36 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-17",
+      "concept-4"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "36"
+    ]
+  },
+  {
+    "id": "thm-037",
+    "title": "Canonical SamplingTheory theorem 37",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 37 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-18",
+      "concept-5"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "37"
+    ]
+  },
+  {
+    "id": "thm-038",
+    "title": "Canonical StochasticProcesses theorem 38",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 38 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-19",
+      "concept-6"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "38"
+    ]
+  },
+  {
+    "id": "thm-039",
+    "title": "Canonical InformationTheory theorem 39",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 39 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-20",
+      "concept-7"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "39"
+    ]
+  },
+  {
+    "id": "thm-040",
+    "title": "Canonical Asymptotics theorem 40",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 40 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-1",
+      "concept-8"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "40"
+    ]
+  },
+  {
+    "id": "thm-041",
+    "title": "Canonical ProbabilityTheory theorem 41",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 41 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-2",
+      "concept-9"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "41"
+    ]
+  },
+  {
+    "id": "thm-042",
+    "title": "Canonical DistributionTheory theorem 42",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 42 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-3",
+      "concept-10"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "42"
+    ]
+  },
+  {
+    "id": "thm-043",
+    "title": "Canonical StatisticalInference theorem 43",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 43 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-4",
+      "concept-11"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "43"
+    ]
+  },
+  {
+    "id": "thm-044",
+    "title": "Canonical HypothesisTesting theorem 44",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 44 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-5",
+      "concept-12"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "44"
+    ]
+  },
+  {
+    "id": "thm-045",
+    "title": "Canonical RegressionModels theorem 45",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 45 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-6",
+      "concept-13"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "45"
+    ]
+  },
+  {
+    "id": "thm-046",
+    "title": "Canonical BayesianStatistics theorem 46",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 46 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-7",
+      "concept-14"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "46"
+    ]
+  },
+  {
+    "id": "thm-047",
+    "title": "Canonical SamplingTheory theorem 47",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 47 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-8",
+      "concept-15"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "47"
+    ]
+  },
+  {
+    "id": "thm-048",
+    "title": "Canonical StochasticProcesses theorem 48",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 48 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-9",
+      "concept-16"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "48"
+    ]
+  },
+  {
+    "id": "thm-049",
+    "title": "Canonical InformationTheory theorem 49",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 49 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-10",
+      "concept-17"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "49"
+    ]
+  },
+  {
+    "id": "thm-050",
+    "title": "Canonical Asymptotics theorem 50",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 50 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-11",
+      "concept-18"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "50"
+    ]
+  },
+  {
+    "id": "thm-051",
+    "title": "Canonical ProbabilityTheory theorem 51",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 51 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-12",
+      "concept-19"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "51"
+    ]
+  },
+  {
+    "id": "thm-052",
+    "title": "Canonical DistributionTheory theorem 52",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 52 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-13",
+      "concept-20"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "52"
+    ]
+  },
+  {
+    "id": "thm-053",
+    "title": "Canonical StatisticalInference theorem 53",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 53 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-14",
+      "concept-21"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "53"
+    ]
+  },
+  {
+    "id": "thm-054",
+    "title": "Canonical HypothesisTesting theorem 54",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 54 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-15",
+      "concept-22"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "54"
+    ]
+  },
+  {
+    "id": "thm-055",
+    "title": "Canonical RegressionModels theorem 55",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 55 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-16",
+      "concept-23"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "55"
+    ]
+  },
+  {
+    "id": "thm-056",
+    "title": "Canonical BayesianStatistics theorem 56",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 56 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-17",
+      "concept-24"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "56"
+    ]
+  },
+  {
+    "id": "thm-057",
+    "title": "Canonical SamplingTheory theorem 57",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 57 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-18",
+      "concept-25"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "57"
+    ]
+  },
+  {
+    "id": "thm-058",
+    "title": "Canonical StochasticProcesses theorem 58",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 58 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-19",
+      "concept-26"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "58"
+    ]
+  },
+  {
+    "id": "thm-059",
+    "title": "Canonical InformationTheory theorem 59",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 59 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-20",
+      "concept-27"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "59"
+    ]
+  },
+  {
+    "id": "thm-060",
+    "title": "Canonical Asymptotics theorem 60",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 60 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-1",
+      "concept-28"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "60"
+    ]
+  },
+  {
+    "id": "thm-061",
+    "title": "Canonical ProbabilityTheory theorem 61",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 61 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-2",
+      "concept-29"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "61"
+    ]
+  },
+  {
+    "id": "thm-062",
+    "title": "Canonical DistributionTheory theorem 62",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 62 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-3",
+      "concept-30"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "62"
+    ]
+  },
+  {
+    "id": "thm-063",
+    "title": "Canonical StatisticalInference theorem 63",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 63 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-4",
+      "concept-31"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "63"
+    ]
+  },
+  {
+    "id": "thm-064",
+    "title": "Canonical HypothesisTesting theorem 64",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 64 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-5",
+      "concept-32"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "64"
+    ]
+  },
+  {
+    "id": "thm-065",
+    "title": "Canonical RegressionModels theorem 65",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 65 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-6",
+      "concept-33"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "65"
+    ]
+  },
+  {
+    "id": "thm-066",
+    "title": "Canonical BayesianStatistics theorem 66",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 66 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-7",
+      "concept-1"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "66"
+    ]
+  },
+  {
+    "id": "thm-067",
+    "title": "Canonical SamplingTheory theorem 67",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 67 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-8",
+      "concept-2"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "67"
+    ]
+  },
+  {
+    "id": "thm-068",
+    "title": "Canonical StochasticProcesses theorem 68",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 68 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-9",
+      "concept-3"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "68"
+    ]
+  },
+  {
+    "id": "thm-069",
+    "title": "Canonical InformationTheory theorem 69",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 69 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-10",
+      "concept-4"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "69"
+    ]
+  },
+  {
+    "id": "thm-070",
+    "title": "Canonical Asymptotics theorem 70",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 70 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-11",
+      "concept-5"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "70"
+    ]
+  },
+  {
+    "id": "thm-071",
+    "title": "Canonical ProbabilityTheory theorem 71",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 71 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-12",
+      "concept-6"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "71"
+    ]
+  },
+  {
+    "id": "thm-072",
+    "title": "Canonical DistributionTheory theorem 72",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 72 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-13",
+      "concept-7"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "72"
+    ]
+  },
+  {
+    "id": "thm-073",
+    "title": "Canonical StatisticalInference theorem 73",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 73 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-14",
+      "concept-8"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "73"
+    ]
+  },
+  {
+    "id": "thm-074",
+    "title": "Canonical HypothesisTesting theorem 74",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 74 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-15",
+      "concept-9"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "74"
+    ]
+  },
+  {
+    "id": "thm-075",
+    "title": "Canonical RegressionModels theorem 75",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 75 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-16",
+      "concept-10"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "75"
+    ]
+  },
+  {
+    "id": "thm-076",
+    "title": "Canonical BayesianStatistics theorem 76",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 76 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-17",
+      "concept-11"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "76"
+    ]
+  },
+  {
+    "id": "thm-077",
+    "title": "Canonical SamplingTheory theorem 77",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 77 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-18",
+      "concept-12"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "77"
+    ]
+  },
+  {
+    "id": "thm-078",
+    "title": "Canonical StochasticProcesses theorem 78",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 78 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-19",
+      "concept-13"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "78"
+    ]
+  },
+  {
+    "id": "thm-079",
+    "title": "Canonical InformationTheory theorem 79",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 79 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-20",
+      "concept-14"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "79"
+    ]
+  },
+  {
+    "id": "thm-080",
+    "title": "Canonical Asymptotics theorem 80",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 80 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-1",
+      "concept-15"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "80"
+    ]
+  },
+  {
+    "id": "thm-081",
+    "title": "Canonical ProbabilityTheory theorem 81",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 81 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-2",
+      "concept-16"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "81"
+    ]
+  },
+  {
+    "id": "thm-082",
+    "title": "Canonical DistributionTheory theorem 82",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 82 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-3",
+      "concept-17"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "82"
+    ]
+  },
+  {
+    "id": "thm-083",
+    "title": "Canonical StatisticalInference theorem 83",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 83 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-4",
+      "concept-18"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "83"
+    ]
+  },
+  {
+    "id": "thm-084",
+    "title": "Canonical HypothesisTesting theorem 84",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 84 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-5",
+      "concept-19"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "84"
+    ]
+  },
+  {
+    "id": "thm-085",
+    "title": "Canonical RegressionModels theorem 85",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 85 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-6",
+      "concept-20"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "85"
+    ]
+  },
+  {
+    "id": "thm-086",
+    "title": "Canonical BayesianStatistics theorem 86",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 86 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-7",
+      "concept-21"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "86"
+    ]
+  },
+  {
+    "id": "thm-087",
+    "title": "Canonical SamplingTheory theorem 87",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 87 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-8",
+      "concept-22"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "87"
+    ]
+  },
+  {
+    "id": "thm-088",
+    "title": "Canonical StochasticProcesses theorem 88",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 88 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-9",
+      "concept-23"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "88"
+    ]
+  },
+  {
+    "id": "thm-089",
+    "title": "Canonical InformationTheory theorem 89",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 89 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-10",
+      "concept-24"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "89"
+    ]
+  },
+  {
+    "id": "thm-090",
+    "title": "Canonical Asymptotics theorem 90",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 90 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-11",
+      "concept-25"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "90"
+    ]
+  },
+  {
+    "id": "thm-091",
+    "title": "Canonical ProbabilityTheory theorem 91",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 91 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-12",
+      "concept-26"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "91"
+    ]
+  },
+  {
+    "id": "thm-092",
+    "title": "Canonical DistributionTheory theorem 92",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 92 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-13",
+      "concept-27"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "92"
+    ]
+  },
+  {
+    "id": "thm-093",
+    "title": "Canonical StatisticalInference theorem 93",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 93 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-14",
+      "concept-28"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "93"
+    ]
+  },
+  {
+    "id": "thm-094",
+    "title": "Canonical HypothesisTesting theorem 94",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 94 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-15",
+      "concept-29"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "94"
+    ]
+  },
+  {
+    "id": "thm-095",
+    "title": "Canonical RegressionModels theorem 95",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 95 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-16",
+      "concept-30"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "95"
+    ]
+  },
+  {
+    "id": "thm-096",
+    "title": "Canonical BayesianStatistics theorem 96",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 96 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-17",
+      "concept-31"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "96"
+    ]
+  },
+  {
+    "id": "thm-097",
+    "title": "Canonical SamplingTheory theorem 97",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 97 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-18",
+      "concept-32"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "97"
+    ]
+  },
+  {
+    "id": "thm-098",
+    "title": "Canonical StochasticProcesses theorem 98",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 98 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-19",
+      "concept-33"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "98"
+    ]
+  },
+  {
+    "id": "thm-099",
+    "title": "Canonical InformationTheory theorem 99",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 99 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-20",
+      "concept-1"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "99"
+    ]
+  },
+  {
+    "id": "thm-100",
+    "title": "Canonical Asymptotics theorem 100",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 100 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-1",
+      "concept-2"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "100"
+    ]
+  },
+  {
+    "id": "thm-101",
+    "title": "Canonical ProbabilityTheory theorem 101",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 101 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-2",
+      "concept-3"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "101"
+    ]
+  },
+  {
+    "id": "thm-102",
+    "title": "Canonical DistributionTheory theorem 102",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 102 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-3",
+      "concept-4"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "102"
+    ]
+  },
+  {
+    "id": "thm-103",
+    "title": "Canonical StatisticalInference theorem 103",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 103 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-4",
+      "concept-5"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "103"
+    ]
+  },
+  {
+    "id": "thm-104",
+    "title": "Canonical HypothesisTesting theorem 104",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 104 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-5",
+      "concept-6"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "104"
+    ]
+  },
+  {
+    "id": "thm-105",
+    "title": "Canonical RegressionModels theorem 105",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 105 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-6",
+      "concept-7"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "105"
+    ]
+  },
+  {
+    "id": "thm-106",
+    "title": "Canonical BayesianStatistics theorem 106",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 106 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-7",
+      "concept-8"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "106"
+    ]
+  },
+  {
+    "id": "thm-107",
+    "title": "Canonical SamplingTheory theorem 107",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 107 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-8",
+      "concept-9"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "107"
+    ]
+  },
+  {
+    "id": "thm-108",
+    "title": "Canonical StochasticProcesses theorem 108",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 108 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-9",
+      "concept-10"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "108"
+    ]
+  },
+  {
+    "id": "thm-109",
+    "title": "Canonical InformationTheory theorem 109",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 109 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-10",
+      "concept-11"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "109"
+    ]
+  },
+  {
+    "id": "thm-110",
+    "title": "Canonical Asymptotics theorem 110",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 110 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-11",
+      "concept-12"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "110"
+    ]
+  },
+  {
+    "id": "thm-111",
+    "title": "Canonical ProbabilityTheory theorem 111",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 111 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-12",
+      "concept-13"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "111"
+    ]
+  },
+  {
+    "id": "thm-112",
+    "title": "Canonical DistributionTheory theorem 112",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 112 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-13",
+      "concept-14"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "112"
+    ]
+  },
+  {
+    "id": "thm-113",
+    "title": "Canonical StatisticalInference theorem 113",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 113 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-14",
+      "concept-15"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "113"
+    ]
+  },
+  {
+    "id": "thm-114",
+    "title": "Canonical HypothesisTesting theorem 114",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 114 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-15",
+      "concept-16"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "114"
+    ]
+  },
+  {
+    "id": "thm-115",
+    "title": "Canonical RegressionModels theorem 115",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 115 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-16",
+      "concept-17"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "115"
+    ]
+  },
+  {
+    "id": "thm-116",
+    "title": "Canonical BayesianStatistics theorem 116",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 116 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-17",
+      "concept-18"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "116"
+    ]
+  },
+  {
+    "id": "thm-117",
+    "title": "Canonical SamplingTheory theorem 117",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 117 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-18",
+      "concept-19"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "117"
+    ]
+  },
+  {
+    "id": "thm-118",
+    "title": "Canonical StochasticProcesses theorem 118",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 118 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-19",
+      "concept-20"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "118"
+    ]
+  },
+  {
+    "id": "thm-119",
+    "title": "Canonical InformationTheory theorem 119",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 119 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-20",
+      "concept-21"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "119"
+    ]
+  },
+  {
+    "id": "thm-120",
+    "title": "Canonical Asymptotics theorem 120",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 120 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-1",
+      "concept-22"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "120"
+    ]
+  },
+  {
+    "id": "thm-121",
+    "title": "Canonical ProbabilityTheory theorem 121",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 121 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-2",
+      "concept-23"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "121"
+    ]
+  },
+  {
+    "id": "thm-122",
+    "title": "Canonical DistributionTheory theorem 122",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 122 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-3",
+      "concept-24"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "122"
+    ]
+  },
+  {
+    "id": "thm-123",
+    "title": "Canonical StatisticalInference theorem 123",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 123 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-4",
+      "concept-25"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "123"
+    ]
+  },
+  {
+    "id": "thm-124",
+    "title": "Canonical HypothesisTesting theorem 124",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 124 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-5",
+      "concept-26"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "124"
+    ]
+  },
+  {
+    "id": "thm-125",
+    "title": "Canonical RegressionModels theorem 125",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 125 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-6",
+      "concept-27"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "125"
+    ]
+  },
+  {
+    "id": "thm-126",
+    "title": "Canonical BayesianStatistics theorem 126",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 126 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-7",
+      "concept-28"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "126"
+    ]
+  },
+  {
+    "id": "thm-127",
+    "title": "Canonical SamplingTheory theorem 127",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 127 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-8",
+      "concept-29"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "127"
+    ]
+  },
+  {
+    "id": "thm-128",
+    "title": "Canonical StochasticProcesses theorem 128",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 128 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-9",
+      "concept-30"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "128"
+    ]
+  },
+  {
+    "id": "thm-129",
+    "title": "Canonical InformationTheory theorem 129",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 129 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-10",
+      "concept-31"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "129"
+    ]
+  },
+  {
+    "id": "thm-130",
+    "title": "Canonical Asymptotics theorem 130",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 130 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-11",
+      "concept-32"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "130"
+    ]
+  },
+  {
+    "id": "thm-131",
+    "title": "Canonical ProbabilityTheory theorem 131",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 131 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-12",
+      "concept-33"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "131"
+    ]
+  },
+  {
+    "id": "thm-132",
+    "title": "Canonical DistributionTheory theorem 132",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 132 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-13",
+      "concept-1"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "132"
+    ]
+  },
+  {
+    "id": "thm-133",
+    "title": "Canonical StatisticalInference theorem 133",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 133 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-14",
+      "concept-2"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "133"
+    ]
+  },
+  {
+    "id": "thm-134",
+    "title": "Canonical HypothesisTesting theorem 134",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 134 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-15",
+      "concept-3"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "134"
+    ]
+  },
+  {
+    "id": "thm-135",
+    "title": "Canonical RegressionModels theorem 135",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 135 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-16",
+      "concept-4"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "135"
+    ]
+  },
+  {
+    "id": "thm-136",
+    "title": "Canonical BayesianStatistics theorem 136",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 136 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-17",
+      "concept-5"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "136"
+    ]
+  },
+  {
+    "id": "thm-137",
+    "title": "Canonical SamplingTheory theorem 137",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 137 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-18",
+      "concept-6"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "137"
+    ]
+  },
+  {
+    "id": "thm-138",
+    "title": "Canonical StochasticProcesses theorem 138",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 138 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-19",
+      "concept-7"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "138"
+    ]
+  },
+  {
+    "id": "thm-139",
+    "title": "Canonical InformationTheory theorem 139",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 139 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-20",
+      "concept-8"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "139"
+    ]
+  },
+  {
+    "id": "thm-140",
+    "title": "Canonical Asymptotics theorem 140",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 140 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-1",
+      "concept-9"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "140"
+    ]
+  },
+  {
+    "id": "thm-141",
+    "title": "Canonical ProbabilityTheory theorem 141",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 141 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-2",
+      "concept-10"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "141"
+    ]
+  },
+  {
+    "id": "thm-142",
+    "title": "Canonical DistributionTheory theorem 142",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 142 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-3",
+      "concept-11"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "142"
+    ]
+  },
+  {
+    "id": "thm-143",
+    "title": "Canonical StatisticalInference theorem 143",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 143 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-4",
+      "concept-12"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "143"
+    ]
+  },
+  {
+    "id": "thm-144",
+    "title": "Canonical HypothesisTesting theorem 144",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 144 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-5",
+      "concept-13"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "144"
+    ]
+  },
+  {
+    "id": "thm-145",
+    "title": "Canonical RegressionModels theorem 145",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 145 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-6",
+      "concept-14"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "145"
+    ]
+  },
+  {
+    "id": "thm-146",
+    "title": "Canonical BayesianStatistics theorem 146",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 146 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-7",
+      "concept-15"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "146"
+    ]
+  },
+  {
+    "id": "thm-147",
+    "title": "Canonical SamplingTheory theorem 147",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 147 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-8",
+      "concept-16"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "147"
+    ]
+  },
+  {
+    "id": "thm-148",
+    "title": "Canonical StochasticProcesses theorem 148",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 148 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-9",
+      "concept-17"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "148"
+    ]
+  },
+  {
+    "id": "thm-149",
+    "title": "Canonical InformationTheory theorem 149",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 149 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-10",
+      "concept-18"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "149"
+    ]
+  },
+  {
+    "id": "thm-150",
+    "title": "Canonical Asymptotics theorem 150",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 150 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-11",
+      "concept-19"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "150"
+    ]
+  },
+  {
+    "id": "thm-151",
+    "title": "Canonical ProbabilityTheory theorem 151",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 151 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-12",
+      "concept-20"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "151"
+    ]
+  },
+  {
+    "id": "thm-152",
+    "title": "Canonical DistributionTheory theorem 152",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 152 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-13",
+      "concept-21"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "152"
+    ]
+  },
+  {
+    "id": "thm-153",
+    "title": "Canonical StatisticalInference theorem 153",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 153 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-14",
+      "concept-22"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "153"
+    ]
+  },
+  {
+    "id": "thm-154",
+    "title": "Canonical HypothesisTesting theorem 154",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 154 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-15",
+      "concept-23"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "154"
+    ]
+  },
+  {
+    "id": "thm-155",
+    "title": "Canonical RegressionModels theorem 155",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 155 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-16",
+      "concept-24"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "155"
+    ]
+  },
+  {
+    "id": "thm-156",
+    "title": "Canonical BayesianStatistics theorem 156",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 156 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-17",
+      "concept-25"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "156"
+    ]
+  },
+  {
+    "id": "thm-157",
+    "title": "Canonical SamplingTheory theorem 157",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 157 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-18",
+      "concept-26"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "157"
+    ]
+  },
+  {
+    "id": "thm-158",
+    "title": "Canonical StochasticProcesses theorem 158",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 158 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-19",
+      "concept-27"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "158"
+    ]
+  },
+  {
+    "id": "thm-159",
+    "title": "Canonical InformationTheory theorem 159",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 159 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-20",
+      "concept-28"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "159"
+    ]
+  },
+  {
+    "id": "thm-160",
+    "title": "Canonical Asymptotics theorem 160",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 160 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-1",
+      "concept-29"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "160"
+    ]
+  },
+  {
+    "id": "thm-161",
+    "title": "Canonical ProbabilityTheory theorem 161",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 161 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-2",
+      "concept-30"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "161"
+    ]
+  },
+  {
+    "id": "thm-162",
+    "title": "Canonical DistributionTheory theorem 162",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 162 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-3",
+      "concept-31"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "162"
+    ]
+  },
+  {
+    "id": "thm-163",
+    "title": "Canonical StatisticalInference theorem 163",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 163 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-4",
+      "concept-32"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "163"
+    ]
+  },
+  {
+    "id": "thm-164",
+    "title": "Canonical HypothesisTesting theorem 164",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 164 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-5",
+      "concept-33"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "164"
+    ]
+  },
+  {
+    "id": "thm-165",
+    "title": "Canonical RegressionModels theorem 165",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 165 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-6",
+      "concept-1"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "165"
+    ]
+  },
+  {
+    "id": "thm-166",
+    "title": "Canonical BayesianStatistics theorem 166",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 166 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-7",
+      "concept-2"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "166"
+    ]
+  },
+  {
+    "id": "thm-167",
+    "title": "Canonical SamplingTheory theorem 167",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 167 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-8",
+      "concept-3"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "167"
+    ]
+  },
+  {
+    "id": "thm-168",
+    "title": "Canonical StochasticProcesses theorem 168",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 168 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-9",
+      "concept-4"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "168"
+    ]
+  },
+  {
+    "id": "thm-169",
+    "title": "Canonical InformationTheory theorem 169",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 169 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-10",
+      "concept-5"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "169"
+    ]
+  },
+  {
+    "id": "thm-170",
+    "title": "Canonical Asymptotics theorem 170",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 170 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-11",
+      "concept-6"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "170"
+    ]
+  },
+  {
+    "id": "thm-171",
+    "title": "Canonical ProbabilityTheory theorem 171",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 171 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-12",
+      "concept-7"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "171"
+    ]
+  },
+  {
+    "id": "thm-172",
+    "title": "Canonical DistributionTheory theorem 172",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 172 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-13",
+      "concept-8"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "172"
+    ]
+  },
+  {
+    "id": "thm-173",
+    "title": "Canonical StatisticalInference theorem 173",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 173 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-14",
+      "concept-9"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "173"
+    ]
+  },
+  {
+    "id": "thm-174",
+    "title": "Canonical HypothesisTesting theorem 174",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 174 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-15",
+      "concept-10"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "174"
+    ]
+  },
+  {
+    "id": "thm-175",
+    "title": "Canonical RegressionModels theorem 175",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 175 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-16",
+      "concept-11"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "175"
+    ]
+  },
+  {
+    "id": "thm-176",
+    "title": "Canonical BayesianStatistics theorem 176",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 176 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-17",
+      "concept-12"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "176"
+    ]
+  },
+  {
+    "id": "thm-177",
+    "title": "Canonical SamplingTheory theorem 177",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 177 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-18",
+      "concept-13"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "177"
+    ]
+  },
+  {
+    "id": "thm-178",
+    "title": "Canonical StochasticProcesses theorem 178",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 178 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-19",
+      "concept-14"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "178"
+    ]
+  },
+  {
+    "id": "thm-179",
+    "title": "Canonical InformationTheory theorem 179",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 179 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-20",
+      "concept-15"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "179"
+    ]
+  },
+  {
+    "id": "thm-180",
+    "title": "Canonical Asymptotics theorem 180",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 180 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-1",
+      "concept-16"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "180"
+    ]
+  },
+  {
+    "id": "thm-181",
+    "title": "Canonical ProbabilityTheory theorem 181",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 181 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-2",
+      "concept-17"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "181"
+    ]
+  },
+  {
+    "id": "thm-182",
+    "title": "Canonical DistributionTheory theorem 182",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 182 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-3",
+      "concept-18"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "182"
+    ]
+  },
+  {
+    "id": "thm-183",
+    "title": "Canonical StatisticalInference theorem 183",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 183 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-4",
+      "concept-19"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "183"
+    ]
+  },
+  {
+    "id": "thm-184",
+    "title": "Canonical HypothesisTesting theorem 184",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 184 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-5",
+      "concept-20"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "184"
+    ]
+  },
+  {
+    "id": "thm-185",
+    "title": "Canonical RegressionModels theorem 185",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 185 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-6",
+      "concept-21"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "185"
+    ]
+  },
+  {
+    "id": "thm-186",
+    "title": "Canonical BayesianStatistics theorem 186",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 186 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-7",
+      "concept-22"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "186"
+    ]
+  },
+  {
+    "id": "thm-187",
+    "title": "Canonical SamplingTheory theorem 187",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 187 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-8",
+      "concept-23"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "187"
+    ]
+  },
+  {
+    "id": "thm-188",
+    "title": "Canonical StochasticProcesses theorem 188",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 188 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-9",
+      "concept-24"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "188"
+    ]
+  },
+  {
+    "id": "thm-189",
+    "title": "Canonical InformationTheory theorem 189",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 189 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-10",
+      "concept-25"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "189"
+    ]
+  },
+  {
+    "id": "thm-190",
+    "title": "Canonical Asymptotics theorem 190",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 190 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-11",
+      "concept-26"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "190"
+    ]
+  },
+  {
+    "id": "thm-191",
+    "title": "Canonical ProbabilityTheory theorem 191",
+    "topic": "ProbabilityTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "probabilitytheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 191 in ProbabilityTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-12",
+      "concept-27"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "probabilitytheory",
+      "191"
+    ]
+  },
+  {
+    "id": "thm-192",
+    "title": "Canonical DistributionTheory theorem 192",
+    "topic": "DistributionTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "distributiontheory"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 192 in DistributionTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-13",
+      "concept-28"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "distributiontheory",
+      "192"
+    ]
+  },
+  {
+    "id": "thm-193",
+    "title": "Canonical StatisticalInference theorem 193",
+    "topic": "StatisticalInference",
+    "tags": [
+      "offline",
+      "deterministic",
+      "statisticalinference"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 193 in StatisticalInference.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-14",
+      "concept-29"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "statisticalinference",
+      "193"
+    ]
+  },
+  {
+    "id": "thm-194",
+    "title": "Canonical HypothesisTesting theorem 194",
+    "topic": "HypothesisTesting",
+    "tags": [
+      "offline",
+      "deterministic",
+      "hypothesistesting"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 194 in HypothesisTesting.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-15",
+      "concept-30"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "hypothesistesting",
+      "194"
+    ]
+  },
+  {
+    "id": "thm-195",
+    "title": "Canonical RegressionModels theorem 195",
+    "topic": "RegressionModels",
+    "tags": [
+      "offline",
+      "deterministic",
+      "regressionmodels"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 195 in RegressionModels.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-16",
+      "concept-31"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "regressionmodels",
+      "195"
+    ]
+  },
+  {
+    "id": "thm-196",
+    "title": "Canonical BayesianStatistics theorem 196",
+    "topic": "BayesianStatistics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "bayesianstatistics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 196 in BayesianStatistics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-17",
+      "concept-32"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "bayesianstatistics",
+      "196"
+    ]
+  },
+  {
+    "id": "thm-197",
+    "title": "Canonical SamplingTheory theorem 197",
+    "topic": "SamplingTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "samplingtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 197 in SamplingTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-18",
+      "concept-33"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "samplingtheory",
+      "197"
+    ]
+  },
+  {
+    "id": "thm-198",
+    "title": "Canonical StochasticProcesses theorem 198",
+    "topic": "StochasticProcesses",
+    "tags": [
+      "offline",
+      "deterministic",
+      "stochasticprocesses"
+    ],
+    "difficulty": "Advanced",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 198 in StochasticProcesses.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-19",
+      "concept-1"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "stochasticprocesses",
+      "198"
+    ]
+  },
+  {
+    "id": "thm-199",
+    "title": "Canonical InformationTheory theorem 199",
+    "topic": "InformationTheory",
+    "tags": [
+      "offline",
+      "deterministic",
+      "informationtheory"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Finite variance",
+      "IID sample"
+    ],
+    "derivation": "Stepwise derivation template for theorem 199 in InformationTheory.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-20",
+      "concept-2"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "informationtheory",
+      "199"
+    ]
+  },
+  {
+    "id": "thm-200",
+    "title": "Canonical Asymptotics theorem 200",
+    "topic": "Asymptotics",
+    "tags": [
+      "offline",
+      "deterministic",
+      "asymptotics"
+    ],
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "Differentiable likelihood"
+    ],
+    "derivation": "Stepwise derivation template for theorem 200 in Asymptotics.",
+    "references": [
+      "StatProof Internal Handbook"
+    ],
+    "relatedConcepts": [
+      "concept-1",
+      "concept-3"
+    ],
+    "searchKeywords": [
+      "proof",
+      "statistics",
+      "asymptotics",
+      "200"
+    ]
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "id": "proof-01",
+    "title": "Canonical derivation 1",
+    "topic": "ProbabilityTheory",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-02",
+    "title": "Canonical derivation 2",
+    "topic": "DistributionTheory",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-03",
+    "title": "Canonical derivation 3",
+    "topic": "StatisticalInference",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-04",
+    "title": "Canonical derivation 4",
+    "topic": "HypothesisTesting",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-05",
+    "title": "Canonical derivation 5",
+    "topic": "RegressionModels",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-06",
+    "title": "Canonical derivation 6",
+    "topic": "BayesianStatistics",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-07",
+    "title": "Canonical derivation 7",
+    "topic": "SamplingTheory",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-08",
+    "title": "Canonical derivation 8",
+    "topic": "StochasticProcesses",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-09",
+    "title": "Canonical derivation 9",
+    "topic": "InformationTheory",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-10",
+    "title": "Canonical derivation 10",
+    "topic": "Asymptotics",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-11",
+    "title": "Canonical derivation 11",
+    "topic": "ProbabilityTheory",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-12",
+    "title": "Canonical derivation 12",
+    "topic": "DistributionTheory",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-13",
+    "title": "Canonical derivation 13",
+    "topic": "StatisticalInference",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-14",
+    "title": "Canonical derivation 14",
+    "topic": "HypothesisTesting",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-15",
+    "title": "Canonical derivation 15",
+    "topic": "RegressionModels",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-16",
+    "title": "Canonical derivation 16",
+    "topic": "BayesianStatistics",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-17",
+    "title": "Canonical derivation 17",
+    "topic": "SamplingTheory",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-18",
+    "title": "Canonical derivation 18",
+    "topic": "StochasticProcesses",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-19",
+    "title": "Canonical derivation 19",
+    "topic": "InformationTheory",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  },
+  {
+    "id": "proof-20",
+    "title": "Canonical derivation 20",
+    "topic": "Asymptotics",
+    "difficulty": "Intermediate",
+    "assumptions": [
+      "x != 0"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "before": "x/x",
+        "after": "1",
+        "rule": "fraction_self"
+      },
+      {
+        "id": "s2",
+        "before": "log(1)",
+        "after": "0",
+        "rule": "log_identity"
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "proofId": "sample-proof-01",
+  "verified": true,
+  "symbolicallyValid": true,
+  "numericallyValid": true,
+  "normalizedLatex": [
+    "\\\\mathrm{Var}(X)=\\\\mathbb{E}[(X-\\\\mathbb{E}[X])^2]"
+  ]
+}
